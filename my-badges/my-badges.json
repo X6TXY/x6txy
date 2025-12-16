@@ -1,0 +1,100 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/X6TXY/pp2-22B030598/commit/acfe6ab48456a7483183001efe00f1d1e327ecd8\"><strong>a</strong>cfe6ab48456a7483183001efe00f1d1e327ecd8</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/X6TXY/scrollgame/commit/ab6bf82a9e208a55a51a5dbe0b8aa9c6b6470707\"><strong>ab</strong>6bf82a9e208a55a51a5dbe0b8aa9c6b6470707</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "abc-commit",
+    "tier": 3,
+    "desc": "One of my commit sha starts with \"abc\".",
+    "body": "- <a href=\"https://github.com/X6TXY/tg_bot_osit/commit/abc92dfebd2682734ee99c6038ba5e2b671977f7\"><strong>abc</strong>92dfebd2682734ee99c6038ba5e2b671977f7</a>",
+    "image": "https://my-badges.github.io/my-badges/abc-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/KakarovDamir/adv-django-final-project/commit/f52be2aef149478e339a7b29a564cee648ce775c\">f52be2a</a>: chore: update database replica configuration in .env files",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" 3 times.",
+    "body": "- <a href=\"https://github.com/X6TXY/x6txy/commit/73615a7ad126c427405aeb1fb8cdeadcc4a53fef\">73615a7ad126c427405aeb1fb8c<strong>dead</strong>cc4a53fef</a>\n- <a href=\"https://github.com/X6TXY/django_backend/commit/7e6e7ebed039fd45646d24918beeb7dead75b63d\">7e6e7ebed039fd45646d24918beeb7<strong>dead</strong>75b63d</a>\n- <a href=\"https://github.com/X6TXY/edifai/commit/6f841b8f2cf01fdead9f034900d22fa14abfad5e\">6f841b8f2cf01f<strong>dead</strong>9f034900d22fa14abfad5e</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/X6TXY/backend-lectures/commit/fc55b90150e7865f9bf78b518fee358a832e369e\">fc55b90</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"fix\".",
+    "body": "My favorite commit message words are:\n\n1. fix (used 50 times)\n2. updt (used 45 times)\n3. add (used 41 times)\n4. deploy (used 37 times)\n5. commit (used 34 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/effuone/focus-feed/commit/929e0e793a57881bc03a0c2c220f2346b355cd81\">929e0e7</a>: fix cors\n- <a href=\"https://github.com/effuone/focus-feed/commit/58b763763ae8e90e4c54e721f972ef4cb99e19d1\">58b7637</a>: fix deploying for youtube process",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/effuone/focus-feed/commit/a9574a764032e45e4cd3d215f3ec8c1603a96bae\">a9574a7</a>: fix deployment\n- <a href=\"https://github.com/effuone/focus-feed/commit/502b9aebb8af668c6ff2da8333ded2b2df773e9c\">502b9ae</a>: fix deployment\n- <a href=\"https://github.com/effuone/focus-feed/commit/2e29eb4e61b9c480a2053d6a2b8e82a13e05a9cc\">2e29eb4</a>: fix deployment",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/effuone/focus-feed/commit/d7749e437ef172b54cc175a6ed42fb9d5f9a111a\">d7749e4</a>: fix audio and photo files\n- <a href=\"https://github.com/effuone/focus-feed/commit/824906efcd4f749438209bb5907d569a7cb57023\">824906e</a>: fix audio and photo files\n- <a href=\"https://github.com/effuone/focus-feed/commit/9a4a4743ccd75cef9a5b204875f9584f8dec571f\">9a4a474</a>: fix lint\n- <a href=\"https://github.com/effuone/focus-feed/commit/49fbecf1d774fbbc6a24b7e34fea34262b53ab98\">49fbecf</a>: fix lint",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
+  },
+  {
+    "id": "public-keys-5",
+    "tier": 5,
+    "desc": "I have five or more public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-5.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/X6TXY/ios-2025-fall/commit/036cf2db9d382bf339f8ccabf3473c7f53789f3a\">036cf2d</a>\n- <a href=\"https://github.com/X6TXY/ios-2025-fall/commit/e575814c91bfa4ac1f8027f663a80138287e313b\">e575814</a>\n- <a href=\"https://github.com/X6TXY/ios-2025-fall/commit/9f73ee24db1ed60e6f741074984acc99bade3428\">9f73ee2</a>\n- <a href=\"https://github.com/X6TXY/4lecture/commit/7487311bff6020a9c897f56a56b00a56d76b1454\">7487311</a>\n- <a href=\"https://github.com/X6TXY/backend-lectures/commit/194c21d05881fd90e20eb24073901a732c3313fe\">194c21d</a>\n- <a href=\"https://github.com/X6TXY/backend-lectures/commit/dbfa49e24e02bdeb3ef60e0f943b5f544aa4e042\">dbfa49e</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/X6TXY/ios-final/commit/757aa864672280899256520bb4a950f6b134ad53\">757aa86</a>\n- <a href=\"https://github.com/X6TXY/ios-2025-fall/commit/497071642b04947ec2fe045ff59d738936d1bbef\">4970716</a>\n- <a href=\"https://github.com/kemelmerey/DCP_SIS1/commit/a88a2ad953dba8a27611994b4a05f8ba61bde350\">a88a2ad</a>\n- <a href=\"https://github.com/X6TXY/ios-2025-fall/commit/03bb1cea6a86a06a7c156b9da1116e2c7893049f\">03bb1ce</a>\n- <a href=\"https://github.com/X6TXY/backend-lectures/commit/4596d7c120a539ec03497daac39c8e5dcf3697a7\">4596d7c</a>\n- <a href=\"https://github.com/KakarovDamir/adv-django-final-project/commit/78e4e152ae7820cbea6038baf7a62d5b7b76e80c\">78e4e15</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/X6TXY/autoattend/commit/bf62ff7db60f14aaa52f74a512028b1ee617ec08\">bf62ff7</a>\n- <a href=\"https://github.com/effuone/focus-feed/commit/24707e6d743193122ee76e07d0f57b3e8437cc4e\">24707e6</a>\n- <a href=\"https://github.com/effuone/focus-feed/commit/33c1fa7782df64bc830495f47aeec841a473e12e\">33c1fa7</a>\n- <a href=\"https://github.com/effuone/focus-feed/commit/0c27e11b4ef534654929819cc46626d0b6e1f63f\">0c27e11</a>\n- <a href=\"https://github.com/effuone/focus-feed/commit/f6fe2d98c9c1dd4bedd24c0978908d95c969b8b2\">f6fe2d9</a>\n- <a href=\"https://github.com/effuone/focus-feed/commit/735c0663a699cb86c06dd484d24de851c935971a\">735c066</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
